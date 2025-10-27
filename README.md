@@ -19,5 +19,3 @@ This repository contains a complete solution for the **Jigsaw - Agile Community 
 - **Environment**: Tested on Kaggle GPU (Tesla T4 x2) with PyTorch, Transformers, vLLM.
 
 The solution is structured for reproducibility, modularity, and easy extension.
-
-## Project Structure
